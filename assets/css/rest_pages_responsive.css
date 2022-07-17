@@ -1,0 +1,11 @@
+      /* services pages responsive */
+      .contact-side {top: 325px ;}
+      @media (max-width: 768px) {
+        .navbar {margin-right: 0px !important;}
+        .goup {right: 15px !important;bottom: 15px !important;width: 40px !important;height: 40px !important;}
+        .contact-side {top: 325px !important;}
+    }
+    /* after effect path show class already HOME me lagi hai*/
+    /* .after-effect{position: relative;}
+    .after-effect ul::after {content: "HOME / Education";width: 100%;font-size: 10px;height: 10px;top: -5px;
+    left: auto;position: relative;color: white;} */
